@@ -10,6 +10,8 @@
     PostgreSQL 9.3 x64 build 13336
 	Windows PowerShell 2.0
 
+<br />
+	
 > #### [Zadanie 1](./solutions/exercise1.md)
 > #### Zadanie 2 (coming soon)
 > #### Zadanie 3 (coming soon)

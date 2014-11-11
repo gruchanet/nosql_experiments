@@ -7,7 +7,8 @@
 > - [MongoDB](./exercise1/1a.md#mongodb)
 > - [PostgreSQL](./exercise1/1a.md#postgresql)
 
-### Zadanie 1b)
+<h3><a href="./exercise1/1b.md">Zadanie 1b</a></h3>
+> Zliczenie liczby zaimportowanych rekordów (Powinno ich być 6 034 195).
 
 ### Zadanie 1c)
 
