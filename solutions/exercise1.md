@@ -4,8 +4,8 @@
 
 <h3><a href="./exercise1/1a.md">Zadanie 1a)</a></h3>
 > Import pliku [Train.csv](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/Train.zip) do baz danych:
-> - [MongoDB](#mongodb)
-> - [PostgreSQL](#postgresql)
+> - [MongoDB](./exercise1/1a.md#mongodb)
+> - [PostgreSQL](./exercise1/1a.md#postgresql)
 
 ### Zadanie 1b)
 
