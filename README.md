@@ -1,4 +1,4 @@
-## Rozwi¹zania zadañ z przedmiotu <b>Technologie NoSQL</b>
+ï»¿## RozwiÄ…zania zadaÅ„ z przedmiotu <b>Technologie NoSQL</b>
 
 ### Platforma testowa:
     Procesor: Intel Core i5-2430M @ 2.40GHz
