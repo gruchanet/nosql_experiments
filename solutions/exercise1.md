@@ -10,6 +10,9 @@
 <h3><a href="./exercise1/1b.md">Zadanie 1b</a></h3>
 > Zliczenie liczby zaimportowanych rekordów (Powinno ich być 6 034 195).
 
-### Zadanie 1c)
+<h3><a href="./exercise1/1c.md">Zadanie 1c)</a></h3>
+> Zamienić string zawierający tagi na tablicę napisów z tagami następnie zliczyć wszystkie tagi i wszystkie różne tagi.
+>
+> W tym zadaniu należy napisać program, który to zrobi. W przypadku [MongoDB](./exercise1/1c.md#mongodb) należy użyć jednego ze sterowników ze strony [MongoDB Ecosystem](http://docs.mongodb.org/ecosystem/). W przypadku [PostgreSQL](./exercise1/1c.md#postgresql) – należy to zrobić w jakikolwiek sposób.
 
 ### Zadanie 1d)
