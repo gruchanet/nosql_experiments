@@ -15,4 +15,7 @@
 >
 > W tym zadaniu należy napisać program, który to zrobi. W przypadku [MongoDB](./exercise1/1c.md#mongodb) należy użyć jednego ze sterowników ze strony [MongoDB Ecosystem](http://docs.mongodb.org/ecosystem/). W przypadku [PostgreSQL](./exercise1/1c.md#postgresql) – należy to zrobić w jakikolwiek sposób.
 
-### Zadanie 1d)
+<h3><a href="./exercise1/1d.md">Zadanie 1d)</a></h3>
+> Wyszukać w sieci dane zawierające obiekty [GeoJSON](http://geojson.org/geojson-spec.html#examples). Następnie dane zapisać w bazie MongoDB.
+>
+> Dla zapisanych danych przygotować co najmniej 6 różnych [geospatial queries](http://docs.mongodb.org/manual/reference/operator/query-geospatial/) (w tym, co najmniej po jednym, dla obiektów Point, LineString i Polygon).
