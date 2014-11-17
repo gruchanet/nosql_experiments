@@ -1,0 +1,126 @@
+﻿{"type":"FeatureCollection","features":[{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7167,
+	  53.9167
+	]
+  },
+  "properties": {
+	"nazwa": "Janiszewko",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7167,
+	  53.9333
+	]
+  },
+  "properties": {
+	"nazwa": "Kolonia Pelplin",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7167,
+	  53.9
+	]
+  },
+  "properties": {
+	"nazwa": "Stocki Młyn",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7,
+	  53.8833
+	]
+  },
+  "properties": {
+	"nazwa": "Kulice",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.6667,
+	  53.9167
+	]
+  },
+  "properties": {
+	"nazwa": "Bielawki",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7167,
+	  53.8833
+	]
+  },
+  "properties": {
+	"nazwa": "Janiszewo",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.6667,
+	  53.9
+	]
+  },
+  "properties": {
+	"nazwa": "Rombark",
+	"wojewodztwo": "Warmińsko-Mazurskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7667,
+	  53.9333
+	]
+  },
+  "properties": {
+	"nazwa": "Rudno",
+	"wojewodztwo": "Pomorskie"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  18.7167,
+	  53.9667
+	]
+  },
+  "properties": {
+	"nazwa": "Rajkowy",
+	"wojewodztwo": "Pomorskie"
+  }
+}]}
