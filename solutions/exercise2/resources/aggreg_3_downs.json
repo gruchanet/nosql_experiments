@@ -1,0 +1,105 @@
+﻿{
+  "result": [
+    {
+      "_id": {
+        "domain": "0-host.net",
+        "global_rank": {
+          "current": 898633,
+          "previous": 883779
+        },
+        "difference": 14854
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-1.ru",
+        "global_rank": {
+          "current": 639287,
+          "previous": 626569
+        },
+        "difference": 12718
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-k.co.uk",
+        "global_rank": {
+          "current": 461161,
+          "previous": 449955
+        },
+        "difference": 11206
+      }
+    },
+    {
+      "_id": {
+        "domain": "0.com",
+        "global_rank": {
+          "current": 834099,
+          "previous": 825674
+        },
+        "difference": 8425
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-50.ru",
+        "global_rank": {
+          "current": 741012,
+          "previous": 732703
+        },
+        "difference": 8309
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-6.in",
+        "global_rank": {
+          "current": 692422,
+          "previous": 689915
+        },
+        "difference": 2507
+      }
+    },
+    {
+      "_id": {
+        "domain": "0.mk",
+        "global_rank": {
+          "current": 88475,
+          "previous": 86634
+        },
+        "difference": 1841
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-vod.biz",
+        "global_rank": {
+          "current": 324915,
+          "previous": 323960
+        },
+        "difference": 955
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-12.com",
+        "global_rank": {
+          "current": 158692,
+          "previous": 158058
+        },
+        "difference": 634
+      }
+    },
+    {
+      "_id": {
+        "domain": "00-r.com",
+        "global_rank": {
+          "current": 844156,
+          "previous": 843727
+        },
+        "difference": 429
+      }
+    }
+  ],
+  "ok": 1
+}

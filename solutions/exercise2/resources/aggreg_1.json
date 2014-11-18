@@ -1,0 +1,55 @@
+﻿{
+  "result": [
+    {
+      "GlobalRank": 2,
+      "Domain": "facebook.com",
+      "RefIPs": 2384183
+    },
+    {
+      "GlobalRank": 1,
+      "Domain": "google.com",
+      "RefIPs": 2195661
+    },
+    {
+      "GlobalRank": 4,
+      "Domain": "twitter.com",
+      "RefIPs": 1997236
+    },
+    {
+      "GlobalRank": 3,
+      "Domain": "youtube.com",
+      "RefIPs": 1879811
+    },
+    {
+      "GlobalRank": 6,
+      "Domain": "wikipedia.org",
+      "RefIPs": 1012349
+    },
+    {
+      "GlobalRank": 5,
+      "Domain": "adobe.com",
+      "RefIPs": 928620
+    },
+    {
+      "GlobalRank": 12,
+      "Domain": "plus.google.com",
+      "RefIPs": 908909
+    },
+    {
+      "GlobalRank": 15,
+      "Domain": "wordpress.org",
+      "RefIPs": 904264
+    },
+    {
+      "GlobalRank": 9,
+      "Domain": "blogspot.com",
+      "RefIPs": 832249
+    },
+    {
+      "GlobalRank": 11,
+      "Domain": "linkedin.com",
+      "RefIPs": 810176
+    }
+  ],
+  "ok": 1
+}

@@ -1,0 +1,105 @@
+﻿{
+  "result": [
+    {
+      "_id": {
+        "domain": "0-0.mk",
+        "global_rank": {
+          "current": 151807,
+          "previous": 159578
+        },
+        "difference": 7771
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-360.com",
+        "global_rank": {
+          "current": 826292,
+          "previous": 832097
+        },
+        "difference": 5805
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-1bb.com",
+        "global_rank": {
+          "current": 559284,
+          "previous": 563439
+        },
+        "difference": 4155
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-60mag.com",
+        "global_rank": {
+          "current": 343488,
+          "previous": 346008
+        },
+        "difference": 2520
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-168.com",
+        "global_rank": {
+          "current": 69872,
+          "previous": 72327
+        },
+        "difference": 2455
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-15.cn",
+        "global_rank": {
+          "current": 345920,
+          "previous": 348368
+        },
+        "difference": 2448
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-00.biz",
+        "global_rank": {
+          "current": 572911,
+          "previous": 575146
+        },
+        "difference": 2235
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-100.com.cn",
+        "global_rank": {
+          "current": 195436,
+          "previous": 196427
+        },
+        "difference": 991
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-6.com.cn",
+        "global_rank": {
+          "current": 485037,
+          "previous": 485635
+        },
+        "difference": 598
+      }
+    },
+    {
+      "_id": {
+        "domain": "0-6.com",
+        "global_rank": {
+          "current": 22676,
+          "previous": 22868
+        },
+        "difference": 192
+      }
+    }
+  ],
+  "ok": 1
+}
