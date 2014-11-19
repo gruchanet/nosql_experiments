@@ -67,8 +67,8 @@ try {
     $stopWatch->stopTimer();
 
     echo 'Uruchomiono na bazie <b>' . $db . '</b> dla kolekcji <b>' . $coll .  '</b><br /><br />';
-    echo '<b>Całkowity czas wykonania (brutto):</b> ' . $stopWatch->getTimeDifference() . ' s. <br />';
-    echo '<b>Czas wykonania samego skryptu (netto):</b> ' . ($stopWatch->getStopClickTime('convertion_end') - $stopWatch->getStartTime()) . ' s. <br />';
+    echo '<b>Całkowity czas wykonania (brutto):</b> ' . $stopWatch->getTimeDifference() . ' sek. <br />';
+    echo '<b>Czas wykonania samego skryptu (netto):</b> ' . ($stopWatch->getStopClickTime('convertion_end') - $stopWatch->getStartTime()) . ' sek. <br />';
     echo '<b>Ilość wszystkich tagów:</b> ' . $tagsStats->getAllKeysCounter() . '<br />';
     echo '<b>Ilość różnych tagów:</b> ' . $tagsStats->getDifferentKeysCounter() . '<br />';
     echo '<b>Ilość unikalnych tagów (1-time):</b> ' . $tagsStats->getUniqueKeysCounter(). '<br />';
