@@ -6,7 +6,7 @@
     Dysk: 500GB HDD - Hitachi HTS54755 (5400RPM)
 	OS: Windows 7 Professional x64
 #### Wersje oprogramowania
-    MongoDB shell version: 2.6.5 x64
+    MongoDB shell version: 2.6.5 / 2.8.0-rc0 / 2.8.0-rc1-pre- [x64]
     PostgreSQL 9.3 x64 build 13336
 	Windows PowerShell 2.0
 
