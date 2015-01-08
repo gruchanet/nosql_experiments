@@ -20,4 +20,4 @@
 	
 > #### [Zadanie 1](./solutions/exercise1.md)
 > #### [Zadanie 2](./solutions/exercise2.md)
-> #### Zadanie 3 (coming soon)
+> #### [Zadanie 3](./solutions/exercise3.md)
