@@ -2,7 +2,7 @@
 var db = connection.getDB('experiment');
 
 // inicjalizacja "wstrzykiwania" wątków
-var numThreads = 4; // z ilu wątków będziemy korzystali
+var numThreads = 2; // z ilu wątków będziemy korzystali
 
 Thread = function() {
 	this.init.apply( this, arguments );
