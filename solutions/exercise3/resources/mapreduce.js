@@ -2,11 +2,11 @@
 var db = connection.getDB('experiment');
 
 var mapFn = function () {
-	// eliminate unnecessary characters strings
+	// eliminacja niepotrzebnych ciągów znaków
 	this.text = this.text.replace(/(<([^>]+)>)|\n|\\n|-align="?(right|center|left)"?|class="?wikitable"?|style=".+"|url = http:\/\/.+ |{{Cytuj (książkę|stronę) \||\[\[Plik\:[^\|]+\|/g, "");
 	this.text = this.text.replace(/&nbsp;/g, " ");
 	
-	// pull out what is necessary
+	// wyłuskanie tego co potrzebne
 	this.text = this.text.replace(/\[https?:\/\/[^ ]* (.*?)\]/g, "$1");
 	
 	var matches = this.text.match(/([a-zA-ZÀ-ÿąćęłńóśźżĄĆĘŁŃÓŚŹŻäöüßÄÖÜẞ]+)/g);
@@ -18,7 +18,7 @@ var mapFn = function () {
 		}
 	}
 	
-	// unsets variables
+	// zwolnienie zmiennych (pamięci)
 	matches = undefined;
 };
 
@@ -29,5 +29,5 @@ var reduceFn = function (word, counts) {
 db.wiki_articles.mapReduce(
 	mapFn,
 	reduceFn,
-	{ out: "wiki_words", jsMode: true }
+	{ out: "wiki_words" }
 );
